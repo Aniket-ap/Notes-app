@@ -4,7 +4,7 @@
 
 ### Features
     - User can edit and delete the notes.
-    - Added Local Storage.
+    - All the notes will be save in the browser.
     - Markdown features.
 
 ### Techstack used
